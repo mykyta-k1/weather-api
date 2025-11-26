@@ -1,0 +1,4 @@
+api:
+  base-url: ${BASE_API_URL}
+  key: ${API_KEY}
+  origin: ${ALLOWED_ORIGIN}
